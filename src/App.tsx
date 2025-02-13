@@ -23,6 +23,7 @@ function App() {
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
         portal
+        <a href="http://localhost:3001/">Go to Knowledge</a>
         <a href="https://react.dev" target="_blank">
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
